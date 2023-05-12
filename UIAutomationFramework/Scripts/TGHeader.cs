@@ -6,7 +6,7 @@ using OpenQA.Selenium.Chrome;
 namespace UIAutomationFramework;
 
 [TestFixture]
-public class Tests
+public class TGHeaderTest
 {
     public IWebDriver driver;
 
